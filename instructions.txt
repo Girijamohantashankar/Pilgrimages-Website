@@ -1,0 +1,41 @@
+=========================================================================================
+                          Pilgrimage Organization Website Setup Instructions
+=========================================================================================
+
+****Note***
+
+I was explain the code how the code was work in the code comment you can check the code file , i was expalin each code HTML, CSS, JS and also BAckend Code.
+
+* If any face the issue then kindly connect me
+
+Thanks You!!!!!
+
+
+***************
+
+
+
+
+
+--------------------------------
+**Backend Setup:**
+-------------------------------
+1. Install Node.js:
+   - Download and install Node.js from https://nodejs.org/.
+
+2. Open a terminal and navigate to the "backend" folder.
+
+3. Run the following commands:
+   ```bash
+   npm install
+   node app.js
+
+
+------------------------------------
+Frontend
+------------------------------------
+frontend code simply contain html, css and javascript 
+
+* this code was run directly in HTML code right click and open as a live server or simply run the code 
+
+

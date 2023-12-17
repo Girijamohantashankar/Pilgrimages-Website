@@ -1,0 +1,57 @@
+/* Style for View Details Page */
+.events_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.event-details-container {
+  max-width: 600px; 
+  margin: 30px 20px;
+  padding: 20px;
+  background-color: #fff; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  border-radius: 10px;
+}
+
+#event-title {
+  text-align: center; 
+  color: rgb(156, 17, 17); 
+}
+#event-date,
+#event-location {
+  text-align: center; 
+  margin-bottom: 10px; 
+}
+#event-description {
+  margin-bottom: 10px;
+  text-align: left;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.heading {
+  color: black;
+}
+.date {
+  color: #007bff;
+  font-weight: bold;
+}
+.loaction {
+  color: rgb(64, 102, 26);
+  font-weight: bold;
+}
+.description {
+  color: brown;
+  font-weight: bold;
+}
